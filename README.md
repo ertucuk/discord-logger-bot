@@ -1,4 +1,4 @@
-# V14 Publiclere özel v14 Sistemi
+# V14 Publiclere özel v14 Sistemi (50 Star)
 
 
 - [Destek Sunucusu](https://discord.gg/luppux)
