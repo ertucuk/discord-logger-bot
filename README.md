@@ -1,5 +1,5 @@
 # V14 Publiclere özel v14 Sistemi (50 Star)
-
+# PUBLIC BOTU ALMAK ICIN ertu yazıp ark atin ucuza salacam hersey var içinde 
 
 - [Destek Sunucusu](https://discord.gg/luppux)
 
