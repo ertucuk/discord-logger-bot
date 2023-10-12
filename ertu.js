@@ -208,7 +208,7 @@ client.on("userFlagsUpdate", (user, oldFlags, newFlags) => {
 client.sendLogin(config.BotToken);
 Collection.prototype.array = function () { return [...this.values()] }
 async function sendLog(ertu) {
-  let channel = client.channels.cache.get(config.sendLogChannelID)
+  let channel = client.channels.cache.get(config.logChannelID)
   if(!channel)return console.log("sendLog Channel is undefined")
   channel.send(ertu)
 }
