@@ -1,0 +1,32 @@
+{
+  "name": "ertu-v14",
+  "author": "Ertu",
+  "version": "14.11.0",
+  "license": "GPL-3.0",
+  "main": "ertu.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node ertu.js"
+  },
+  "dependencies": {
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.13.0"
+  },
+  "keywords": [
+    "ertu",
+    "ertucuk",
+    "v14",
+    "v14 logger",
+    "v14 log",
+    "v14-logger",
+    "discord-v14",
+    "v14 bot",
+    "discord v14",
+    "discord log bot",
+    "discord logger bot",
+    "discord",
+    "logger",
+    "log"
+  ]
+}
+
